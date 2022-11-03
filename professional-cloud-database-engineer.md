@@ -8,7 +8,7 @@
 | **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
 | **Recommended experience:** | 5+ years of overall database and IT experience, including 2 years of hands-on experience working with Google Cloud database solutions. | 
-| **Official Practice Test:** | Not Available Yet | 
+| **Official Practice Test:** | https://docs.google.com/forms/d/e/1FAIpQLSe55cAg8a3NzgV_QCJ2_F75NAyE44Z-XuVB6oPJXaWnI5UBIQ/viewform | 
 | **Exam guide:** | https://cloud.google.com/certification/guides/cloud-database-engineer | 
 
 ### Posts
@@ -55,4 +55,6 @@
 | Cloud Skills Boost | [Enterprise Database Migration](https://www.cloudskillsboost.google/course_templates/145) | Google |
 | Cloud Skills Boost | [Migrate MySQL data to Cloud SQL using Database Migration Service](https://www.cloudskillsboost.google/quests/180) | Google |
 | Cloud Skills Boost | [Manage PostgreSQL Databases on Cloud SQL](https://www.cloudskillsboost.google/quests/186) | Google |
+| Cloud Skills Boost | [Create and Manage Cloud Spanner Databases](https://www.cloudskillsboost.google/quests/213) | Google |
+| Cloud Skills Boost | [Manage Bigtable on Google Cloud](https://www.cloudskillsboost.google/quests/214) | Google |
 
